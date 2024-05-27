@@ -16,7 +16,7 @@ Professor: Mark P. Bernardino, MSCS <br>
 
 ## Table of Contents
 - [Welcome](#csst-104-advanced-machine-learning)
-- [Personal Information](#group-information)
+- [Group Information](#group-information)
 - [Introduction](#introduction)
 - [Course Description](#course-description)
 - [Files](#files)
