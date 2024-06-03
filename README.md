@@ -4,7 +4,7 @@
 
 Welcome to the CSST 104: Advanced Machine Learning Repository!
 
-This repository is a central hub for all course-related files for the final project, including comprehensive documentation and datasets for analyzing student exam performance.
+This repository is a central hub for all the files for the final project, including comprehensive documentation and datasets for analyzing student exam performance.
 
 ## Group Information
 Members: Renz Dexter M. Perci, Favielle Anne O. Reyes, Justin John Mico Villaflor<br>
